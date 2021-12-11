@@ -2,8 +2,8 @@
 # React Chat Engine App
 
 
--Today I made a messaging application using the react chat engine tool. 
--The source I used to make this application: 
+-Today I made a messaging application using the react chat engine tool.</br>  
+-The source I used to make this application: </br> 
 -https://www.youtube.com/watch?v=jcOKU9f86XE
 
 #### What I Learnt ?
